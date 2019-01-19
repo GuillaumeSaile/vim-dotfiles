@@ -1,0 +1,14 @@
+pathogen		    # To install other plugins
+c.vim                       # To turn vim into a C IDE
+nerdtree                    # Side tree
+i3config.vim                # Highlighting for i3 config files
+OmniCppComplete             # For C/C++ Completion
+syntastic                   # Show code errors
+tagbar                      # Bar that show the function, vars, classes, etc of a file
+vim-airline                 # Status line enhancing
+vim-airline-themes          # Themes for vim-airline
+vim-cmake-syntax            # Syntax for CMake config files
+vim-cpp-enhanced-hihglight  # Highlighting enhancement for C/C++
+vim-snipmate                # Another completion plugin
+vim-surround                # Surrounding
+vim-webdevicons             # Icons for vim (include NERDTree)
