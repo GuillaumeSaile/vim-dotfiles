@@ -19,7 +19,6 @@ let g:airline_theme = 'zenburn'
 
 let g:header_field_author = 'Guillaume Sailé'
 let g:header_field_author_email = 'saileguillaume2@gmail.com'
-map <F4> :AddHeader<CR>
 
 nnoremap <up> <nop>
 nnoremap <down> <nop>
