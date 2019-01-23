@@ -1,0 +1,15 @@
+set number
+set autoindent
+set smartindent
+set showcmd
+set omnifunc=syntaxcomplete#complete
+set mouse=a
+set background=dark
+syntax on
+highlight Normal ctermbg=Black
+highlight NonText ctermbg=Black
+
+nnoremap <up> <nop>
+nnoremap <down> <nop>
+nnoremap <left> <nop>
+nnoremap <right> <nop>
